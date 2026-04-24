@@ -1,0 +1,20 @@
+{
+  "Custom_CNN": {
+    "best_val_accuracy": 0.9368770764119602,
+    "best_val_loss": 0.26636735802869066,
+    "epochs_trained": 8
+  },
+  "ResNet50": {
+    "best_val_accuracy": 1.0,
+    "best_val_loss": 0.007637699131553751,
+    "epochs_trained": 8
+  },
+  "VGG16": {
+    "error": "Input dimension should be at least 3"
+  },
+  "EfficientNetB0": {
+    "best_val_accuracy": 0.9966777408637874,
+    "best_val_loss": 0.04656869845087346,
+    "epochs_trained": 8
+  }
+}
